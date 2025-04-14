@@ -5,7 +5,7 @@ class Livro {
     //essa propriedade é um array que será usado para armazenar dados e os alunos
     //Cada aluno será representado por um array associativo com nome e idade
     private $livros = [
-        ['title' => 'A Volta dos Que Não Foram Vol.II', 'autor' => 'Machado de Assis', 'ano' => 1946],
+        ['title' => 'A Volta dos Que Não Foram Vol.II', 'autor' => 'Machado de Assis', 'ano' => 2005],
         ['title' => '1984', 'autor' => 'George Orwell', 'ano' => 1949],
         ['title' => 'O Pequeno Príncipe', 'autor' => 'Antoine de Saint-Exupéry', 'ano' => 1943],
         ['title' => 'Cem Anos de Solidão', 'autor' => 'Gabriel García Márquez', 'ano' => 1967],
